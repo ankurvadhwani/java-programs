@@ -12,7 +12,7 @@ class Gross
     
     da=(bas*40/100);
     hrs=(bas*20/100);
-    total bas+da+hrs;
+    total =bas+da+hrs;
     System.out.println("Gross Salary = "+total);
   }
 }
